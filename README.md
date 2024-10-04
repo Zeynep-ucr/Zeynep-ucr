@@ -1,10 +1,8 @@
-
 <p align="center">
   <img src="https://media1.tenor.com/m/bfOEyTxwK40AAAAC/work-computer.gif" alt="MasterHead" width="300" height="200">
 </p>
 <h1 align="center">Hi 👋, I'm Zeynep ✰</h1>
 <h3 align="center">I am studying computer engineering at Marmara University.</h3>
-<img align="right" alt="Coding" witdh="400" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU>
 
 - 📫 How to reach me **zeynepucar129.828@gmail.com**
 
